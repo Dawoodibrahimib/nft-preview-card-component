@@ -1,0 +1,195 @@
+:root
+{
+    
+   --mainBG: hsl(217, 54%, 11%);
+   --cardBG: hsl(216, 50%, 16%);
+   --line: hsl(215, 32%, 27%);
+   --White: hsl(0, 0%, 100%);
+   
+}
+@media screen and (min-width: 1440px) and (max-width: 1599px) {#gallery-1 img {width:428px;}} 
+
+@media only screen and (min-width: 375px) {
+    .dllm {
+      color: yellow;
+      padding-top: 100px;
+    }
+  }
+body
+{
+   background-color:var(--mainBG);
+}
+.🧁
+{
+    border-radius: 10px;
+    height: 580px;
+    width: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: var(--cardBG);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+    
+}
+.🍅
+{
+    
+   
+    height: 300px;
+    left: 25px;
+    position: relative;
+    width:300px;
+    align-items: center;
+    border-radius: 10px;
+    top: 20px;
+
+
+}
+.🌯
+{
+   
+    max-height: 290px;
+    width: 350px;
+}
+.🎢
+{
+    font-family:"Karla";
+    
+}
+.🐦{
+    color: var(--White);
+    font-size:25px;
+    position: relative;
+    top:40px;
+    left:25px;
+    font-weight: 900px;
+
+}
+.❤️
+{
+    color:#b5bbc4;
+    position: relative;
+    top:50px;
+    left: 25px;
+    font-weight: 400;
+    line-height: 25px;
+
+
+}
+.⭐
+{
+    position: relative;
+    bottom: 88px;
+    right: 275px;
+}
+.🥥
+{
+    position: relative;
+    color: cyan;
+    font-size: 19px;
+    left: 45px;
+    bottom: 250px;
+    font-weight: 900;
+}
+.🕐
+{
+    position: relative;
+    bottom:280px;
+    left: 220px;
+}
+.🧷{
+    position: relative;
+    color: #b5bbc4;
+    bottom: 318px;
+    left: 245px;
+    font-weight: 600;
+
+}
+.📏
+{
+    position: relative;
+    bottom: 320px;
+    width: 280px;
+    border: 1px solid var(--line);
+}
+.🍼
+{
+    position: relative;
+    width:  30px;
+    height: 30px;
+    border: 1px white solid;
+    border-radius: 40px;
+    bottom: 315px;
+    left: 30px;
+}
+.✏️
+{
+    color: aliceblue;
+    font-family:"Karla";
+    position: relative;
+    bottom: 360px;
+    left: 75px;
+    font-weight: 700;
+}
+.⛽
+{
+    color: #b5bbc4;
+}
+.🦜{
+    border: none;
+    background-color: var(--cardBG);
+    color:var(--White);
+}
+.🦜:active
+{
+    color: cyan;
+}
+.🦜:hover
+{
+    color: cyan;
+}
+.🏨
+{
+    background-color: var(--cardBG);
+    border: none;
+    color: var(--White);
+    font-size:25px;
+}
+.🏨:active
+{
+    color: cyan;
+}
+.🏨:hover
+{
+    color: cyan;
+}
+.🐔
+{
+    height: 300px;
+    width: 300px;
+    opacity: 0;
+    position: relative;
+    bottom: 398px;
+    left: 25px;
+}
+.🤖
+{
+    
+}
+.🐔:hover
+{
+    background-color:cyan;
+    opacity: 0.5;
+    border-radius: 10px;
+    border:none;
+}
+
+.🐔:active
+{
+    background-color:cyan;
+    opacity: 0.5;
+    border-radius: 10px;
+    border: none;
+}
